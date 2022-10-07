@@ -1,0 +1,15 @@
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task18\bin\Debug\net6.0\Task18.exe
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task18\bin\Debug\net6.0\Task18.deps.json
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task18\bin\Debug\net6.0\Task18.runtimeconfig.json
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task18\bin\Debug\net6.0\Task18.dll
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task18\bin\Debug\net6.0\Task18.pdb
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task18\obj\Debug\net6.0\Task18.csproj.AssemblyReference.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task18\obj\Debug\net6.0\Task18.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task18\obj\Debug\net6.0\Task18.AssemblyInfoInputs.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task18\obj\Debug\net6.0\Task18.AssemblyInfo.cs
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task18\obj\Debug\net6.0\Task18.csproj.CoreCompileInputs.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task18\obj\Debug\net6.0\Task18.dll
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task18\obj\Debug\net6.0\refint\Task18.dll
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task18\obj\Debug\net6.0\Task18.pdb
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task18\obj\Debug\net6.0\Task18.genruntimeconfig.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task18\obj\Debug\net6.0\ref\Task18.dll
