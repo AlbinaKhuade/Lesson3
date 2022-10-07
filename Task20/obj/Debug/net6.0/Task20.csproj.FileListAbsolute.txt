@@ -1,0 +1,15 @@
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task20\obj\Debug\net6.0\Task20.csproj.AssemblyReference.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task20\obj\Debug\net6.0\Task20.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task20\obj\Debug\net6.0\Task20.AssemblyInfoInputs.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task20\obj\Debug\net6.0\Task20.AssemblyInfo.cs
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task20\obj\Debug\net6.0\Task20.csproj.CoreCompileInputs.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task20\bin\Debug\net6.0\Task20.exe
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task20\bin\Debug\net6.0\Task20.deps.json
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task20\bin\Debug\net6.0\Task20.runtimeconfig.json
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task20\bin\Debug\net6.0\Task20.dll
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task20\bin\Debug\net6.0\Task20.pdb
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task20\obj\Debug\net6.0\Task20.dll
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task20\obj\Debug\net6.0\refint\Task20.dll
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task20\obj\Debug\net6.0\Task20.pdb
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task20\obj\Debug\net6.0\Task20.genruntimeconfig.cache
+E:\Users\huade_aa\Desktop\Альбина\GeekBrains\4. C#\Семинары\07.10.2022\Task20\obj\Debug\net6.0\ref\Task20.dll
